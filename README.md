@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shabih
-- 👀 I’m interested in UI design & Frontend
-- 🌱 I’m currently learning UI design
+- 👀 I’m interested in Frontend and Python
+- 🌱 I’m currently learning Web Development
 - 🏢 Also searching for a job 😮‍💨
 - 📫 mailingtoshabih@gmail.com
