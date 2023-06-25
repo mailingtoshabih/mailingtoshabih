@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Shabih
-- 👀 I’m interested in Frontend and Python
-- 🌱 I’m currently learning Web Development
+- 👀 A Web Developer
+- 🌱 Proficient in React
 - 🏢 Also searching for a job 😮‍💨
 - 📫 mailingtoshabih@gmail.com
+- 📫 connectshabih@gmail.com
