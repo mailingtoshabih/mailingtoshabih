@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shabih
-- 👀 A Web Developer
-- 🌱 Proficient in React
-- 🏢 Also searching for a job 😮‍💨
+- 👀 A Fullstack Developer and Freelancer specialized in MERN.
+- 🌱 Proficient in developing Web Applications from scratch. Have taken care of Frontend, Backend and Database.
+- 🏢 Earning money but still searching for a job 😮‍💨
 - 📫 mailingtoshabih@gmail.com
 - 📫 connectshabih@gmail.com
